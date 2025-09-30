@@ -121,7 +121,7 @@ A powerful task management web application designed for Asment Témara featuring
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-engmohamedjbilou@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:engmohamedjbilou@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-jbilou)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedjbilou/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-iota-ten-95.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mizuch1)
 
