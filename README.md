@@ -19,7 +19,6 @@ Hello! I'm **Mohamed Jbilou**, a passionate software engineering student at **EM
 ### 🎓 Education
 - **EMSI - École Marocaine des Sciences de l'Ingénieur**
 - **Computer Science - Software Engineering (IT)**
-- **Expected Graduation: 2026**
 
 ### 💼 Career Aspirations
 I aspire to work on impactful projects with real-world applications, particularly in **full-stack development**, **web/mobile app development**, and **cloud computing**. I'm eager to take on new challenges and grow into leadership positions in dynamic tech environments.
