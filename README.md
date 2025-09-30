@@ -83,7 +83,7 @@ A comprehensive mobile banking application with a cyberpunk-inspired interface f
 
 ---
 
-### 🍽️ [RestoBook: Intelligent Restaurant Reservation Chatbot](https://github.com/Mizuch1/RestoBook)
+### 🍽️ [RestoBook: Intelligent Restaurant Reservation Chatbot](https://github.com/Mizuch1/RestoBook-Chatbot)
 <p align="center">
   <img src="https://coffee-dyna-61.tiiny.site/restobook-portfolio-2.svg" alt="RestoBook Preview" width="400">
 </p>
