@@ -94,9 +94,9 @@ An intelligent restaurant reservation system using natural language processing f
 
 ---
 
-### 📝 [Asment Task Manager](https://github.com/Mizuch1/asment-task-manager)
+### 📝 [Task Manager](https://github.com/Mizuch1/asment-task-manager)
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Task+Management+Made+Simple;&center=true&width=400&height=30">
+  <img src="https://moccasin-marline-95.tiiny.site/asment_portfolio_cover.svg" alt="Task Manager Preview" width="400">
 </p>
 
 A powerful task management web application designed for Asment Témara featuring role-based access, analytics dashboard, and multi-step task creation wizard.
