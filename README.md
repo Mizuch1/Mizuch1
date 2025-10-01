@@ -74,7 +74,7 @@ I aspire to work on impactful projects with real-world applications, particularl
 
 ### 💰 [FlousBank: Next-Gen Mobile Banking](https://github.com/Mizuch1/FlousBank)
 <p align="center">
-  <img src="https://olive-carly-51.tiiny.site/4.svg" alt="FlousBank Preview" width="400">
+  <img src="https://apricot-lissa-79.tiiny.site/svg/4" alt="FlousBank Preview" width="400">
 </p>
 
 A comprehensive mobile banking application with a cyberpunk-inspired interface featuring secure authentication, transaction management, bill payments, and card management.
