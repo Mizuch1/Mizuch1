@@ -14,8 +14,7 @@
 
 ## 🚀 About Me
 
-Hello! I'm **Mohamed Jbilou**, a passionate software engineering student at **EMSI** with a strong focus on **web and mobile development**. I love creating innovative solutions that solve real-world problems and deliver exceptional user experiences.
-
+Hello! I'm **Mohamed Jbilou**, a passionate software engineering student at **EMSI**. I build **web and mobile applications** while continuously expanding my expertise in **cloud technologies (AWS)**, **containerization (Docker, Kubernetes)**, and **CI/CD pipelines** to deliver scalable, enterprise-ready solutions.
 ### 🎓 Education
 - **EMSI - École Marocaine des Sciences de l'Ingénieur**
 - **Computer Science - Software Engineering (IT)**
