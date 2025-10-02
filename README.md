@@ -100,7 +100,7 @@ An intelligent restaurant reservation system using natural language processing f
 
 A powerful task management web application designed for Asment Témara featuring role-based access, analytics dashboard, and multi-step task creation wizard.
 
-**Tech Stack:** React • TypeScript • Tailwind CSS • Recharts
+**Tech Stack:** React • TypeScript • Tailwind CSS • PostgreSQL • Recharts 
 
 ---
 
