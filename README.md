@@ -130,10 +130,10 @@ A powerful task management web application designed for Asment Témara featuring
 
 ## 🎯 What I'm Working On
 
-- 🚀 Building innovative web and mobile applications
-- 📚 Continuously learning new technologies and frameworks
-- 🔧 Contributing to open-source projects
-- 🌍 Developing solutions that make a positive impact
+- 🚀 Architecting full-stack applications with modern frameworks and cloud-native architectures
+- ☁️ Mastering AWS services and implementing automated CI/CD pipelines for seamless deployments
+- 🐳 Deep-diving into container orchestration with Kubernetes to build resilient microservices
+- 🌍 Contributing to open-source projects and building solutions that solve real-world problems
 
 ---
 
